@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">剪贴板同步</string>
+    <string name="app_name">Fcitx5-SyncClipboard</string>
     <string name="plugin_description">与 SyncClipboard 服务器同步剪贴板</string>
     
     <!-- Settings -->
